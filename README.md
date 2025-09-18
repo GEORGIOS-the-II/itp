@@ -4,4 +4,6 @@
 [this is a hyperlink]() actual link inside of the parenthesis
 `` for code
 
-![cat gif](https://tenor.com/gbOo9MCzGxf.gif)
+[cat gif](https://tenor.com/gbOo9MCzGxf.gif)
+![cat image](OIP-4008240654.vq0P_nej_VE1EcBdr7SS5gHaHa.jpeg)
+
