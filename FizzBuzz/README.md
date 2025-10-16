@@ -20,7 +20,7 @@
 	
 - And finally to print the rest of the numbers just:
 
-`else{console.log(`${i}`)}`
+```else{console.log(`${i}`)}```
 
 ## I deleted some spacing because it showd up wierdly in the priview of the .md file.
 
